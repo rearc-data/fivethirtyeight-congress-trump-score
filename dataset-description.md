@@ -1,0 +1,1 @@
+This release contains information on if individuals in the U.S. Senate and House are with or against President Trump. The included files contain data on the averages of the votes and predictions on how likely an individual in Congress is for President Trump based on 2016 margins.
