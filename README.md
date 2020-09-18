@@ -5,7 +5,7 @@
 Tracking Congress In The Age Of Trump | FiveThirtyEight
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-w6spvmgffqhtw](https://aws.amazon.com/marketplace/pp/prodview-w6spvmgffqhtw).
 
 ## Main Overview
 
